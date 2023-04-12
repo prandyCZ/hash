@@ -1,0 +1,1 @@
+const Config =  {  port: 1234,  // change this to your local db  DB: {    user: "==CHANGE ME==",    password: "==CHANGE ME==",    host: "localhost",    name: "hash",    port: 5432,    table: "fileInfo"  }}module.exports = Config;
